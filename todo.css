@@ -4,5 +4,8 @@ ul {
 }
 
 li {
-    border: 1px solid #ccc; background: #eee; padding: 5px 10 px; color: #000;
+    border: 1px solid #ccc; background: #eee; padding: 5px 10px; color: #000;
 }
+
+li span { padding-left: 10px;}
+.checked { text-decoration: line-through; font-weight: bold; color: #c00;}
